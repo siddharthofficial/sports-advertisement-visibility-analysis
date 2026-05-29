@@ -1,0 +1,17 @@
+streamlit
+opencv-python
+pandas
+numpy
+matplotlib
+ultralytics
+yt-dlp
+
+torch
+torchvision
+
+scikit-learn
+Pillow
+PyYAML
+tqdm
+jupyter
+ipykernel
