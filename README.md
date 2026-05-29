@@ -242,6 +242,8 @@ paytm-ad-visibility-analytics/
 ├── test_samples/
 │
 ├── screenshots/
+├── heatmap_overlay.png
+├── model_comparison_table.png
 │
 └── outputs/
 ```
